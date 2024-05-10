@@ -1,11 +1,13 @@
 
 // console.log('nomes');
 
+
 // let dados=require('./dados')
 // console.log(pessoas);
 // console.log(pessoas[2]);
 
 // console.log(dados.nomes);
+
 // console.log(dados.frutas);
 
 //usando desestruturação
